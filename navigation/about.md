@@ -22,8 +22,7 @@ gallery_images:
 
 ## As a conversation Starter
 
-Here are some of my hobbies:
-
+Here are some of my hobbies: wrhwabagboa
 <comment>
 Flags are made using Wikipedia images
 </comment>
