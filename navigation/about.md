@@ -20,9 +20,9 @@ gallery_images:
 
 <!-- markdownlint-disable MD033 -->
 
-## As a conversation Starter xxxxxx
+## As a conversation Starter
 
-Here are some of my hobbies cuz im the big p
+Here are some of my hobbies:
 
 <comment>
 Flags are made using Wikipedia images
